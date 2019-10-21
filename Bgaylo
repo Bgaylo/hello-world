@@ -65,3 +65,5 @@ int *getCharNum(char *filename, int *totalNum){
     }
     return totalNum;
 }
+
+
